@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-fewheo.juragan89site.site/sitemap.xml
